@@ -9,9 +9,10 @@ The next step is to develop an app based on this application prototype.
 
 ## Team Members
 
--Komal
--Khushal Yadav
--Ketan Mohan Garg
--Kratik Gupta
--Kirti Jain
+- Komal
+- Khushal Yadav
+- Ketan Mohan Garg
+- Kratik Gupta
+- Kirti Jain
+
 
